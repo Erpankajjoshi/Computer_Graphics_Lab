@@ -27,3 +27,4 @@ Detail setup can be found on my other repo [solution-to-graphics.h](https://gith
 - Folder `build` where compiler generate .exe
 
 - .vscode contains c_cpp_properties.json and task require modification according to your environment and types compiler
+"# Computer_Graphics_Lab" 
